@@ -1,4 +1,4 @@
-namespace Calculator2
+namespace _2000s_Analog_Horror_Page
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace Calculator2
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Calculator2());
+            Application.Run(new MainPage());
         }
     }
 }
